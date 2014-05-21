@@ -1,0 +1,564 @@
+
+*****CLASSNAMES*******
+Weapons  -  Ammo
+
+RH_ak47      30Rnd_762x39_AK47
+RH_aks47g     30Rnd_762x39_AK47
+RH_aks47s     30Rnd_762x39_AK47
+RH_aks47     30Rnd_762x39_AK47
+RH_aks47b    30Rnd_762x39_AK47
+RH_ak47gl     30Rnd_762x39_AK47 , 1Rnd_HE_GP25
+RH_akm        30Rnd_762x39_AK47
+RH_akms       30Rnd_762x39_AK47
+RH_akmsp     30Rnd_762x39_AK47
+RH_akmssd     RH_30Rnd_762x39_SDmag
+RH_akmgl      30Rnd_762x39_AK47 , 1Rnd_HE_GP25
+RH_rk95        30Rnd_762x39_AK47
+RH_rk95ag     30Rnd_762x39_AK47
+RH_rk95aim    30Rnd_762x39_AK47
+RH_rk95sd     RH_30Rnd_762x39_SDmag   
+RH_rk95sdaim RH_30Rnd_762x39_SDmag
+RH_rk95sdag  RH_30Rnd_762x39_SDmag
+RH_an94       RH_30Rnd_545x39_an94_mag
+RH_an94gl       RH_30Rnd_545x39_an94_mag , 1Rnd_HE_GP25
+RH_aks74u    RH_30Rnd_545x39_AKSU_mag
+RH_aks74usd      30Rnd_545x39_AKSD
+RH_aks74upt    30Rnd_545x39_AKSD , RH_1Rnd_30mm
+RH_aks74uptsp 30Rnd_545x39_AKSD , RH_1Rnd_30mm
+RH_aks74uk    RH_30Rnd_545x39_AKSU_mag
+RH_aks74usdk      30Rnd_545x39_AKSD
+RH_aks74uptk   30Rnd_545x39_AKSD , RH_1Rnd_30mm
+RH_bizon         64Rnd_9x19_Bizon
+RH_bizonk       64Rnd_9x19_Bizon
+RH_bizonsd     64Rnd_9x19_SD_Bizon
+RH_bizonsdk   64Rnd_9x19_SD_Bizon
+RH_svd         10Rnd_762x54_SVD
+RH_svdb        10Rnd_762x54_SVD
+RH_svdg        10Rnd_762x54_SVD
+RH_svds        10Rnd_762x54_SVD
+RH_svu        10Rnd_762x54_SVD
+RH_ak74        30Rnd_545x39_AK
+RH_ak74gl      30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_ak74k       30Rnd_545x39_AK
+RH_ak74kgl    30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_ak74sp     30Rnd_545x39_AK
+RH_aks74       30Rnd_545x39_AK
+RH_aks74gl     30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_aks74k      30Rnd_545x39_AK
+RH_aks74kgl    30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_aks74sp    30Rnd_545x39_AK
+RH_oc14         RH_20Rnd_9x39_SP6_mag
+RH_oc14gl      RH_20Rnd_9x39_SP6_mag, 1Rnd_HE_GP25
+RH_gr1           30Rnd_762x39_AK47
+RH_oc14sd     RH_20Rnd_9x39_SP6SD_mag
+RH_gr1sd        RH_30Rnd_762x39_SDmag
+RH_oc14sp     RH_20Rnd_9x39_SP6_mag
+RH_oc14glsp   RH_20Rnd_9x39_SP6_mag, 1Rnd_HE_GP25
+RH_gr1sp        30Rnd_762x39_AK47
+RH_oc14sdsp  RH_20Rnd_9x39_SP6SD_mag
+RH_gr1sdsp    RH_30Rnd_762x39_SDmag
+RH_rpk47       RH_75Rnd_762x39_mag
+RH_rpk74       RH_45Rnd_545x39_mag
+RH_rpk74m      RH_45Rnd_545x39_mag
+RH_rpk74m1p29  RH_45Rnd_545x39_mag
+RH_ak74m       30Rnd_545x39_AK
+RH_ak74mgl     30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_ak74mk      30Rnd_545x39_AK
+RH_ak74mkgl    30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_ak74msp     30Rnd_545x39_AK
+RH_ak74mglsp   30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_ak74m1p29   30Rnd_545x39_AK
+RH_ak74mgl1p29 30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_aks74m      30Rnd_545x39_AK
+RH_aks74mgl    30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_aks74mk     30Rnd_545x39_AK
+RH_aks74mkgl   30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_aks74msp    30Rnd_545x39_AK
+RH_aks74mglsp  30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_aks74m1p29  30Rnd_545x39_AK
+RH_aks74mgl1p29 30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_ak103       30Rnd_762x39_AK47
+RH_ak103gl     30Rnd_762x39_AK47 , 1Rnd_HE_GP25
+RH_ak103k      30Rnd_762x39_AK47
+RH_ak103kgl    30Rnd_762x39_AK47 , 1Rnd_HE_GP25
+RH_ak103sp     30Rnd_762x39_AK47
+RH_ak103glsp   30Rnd_762x39_AK47 , 1Rnd_HE_GP25
+RH_ak103_1p29  30Rnd_762x39_AK47
+RH_ak103gl1p29 30Rnd_762x39_AK47 , 1Rnd_HE_GP25
+RH_aks74p      30Rnd_545x39_AK
+RH_aks74pgl    30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_aks74pk     30Rnd_545x39_AK
+RH_aks74pkgl   30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_aks74psp    30Rnd_545x39_AK
+RH_aks74pglsp  30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_aks74p1p29  30Rnd_545x39_AK
+RH_aks74pgl1p29 30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_ak104       30Rnd_762x39_AK47
+RH_ak104gl     30Rnd_762x39_AK47 , 1Rnd_HE_GP25
+RH_ak104k      30Rnd_762x39_AK47
+RH_ak104kgl    30Rnd_762x39_AK47 , 1Rnd_HE_GP25
+RH_ak104sp     30Rnd_762x39_AK47
+RH_ak104glsp   30Rnd_762x39_AK47 , 1Rnd_HE_GP25
+RH_ak104_1p29  30Rnd_762x39_AK47
+RH_ak104gl1p29 30Rnd_762x39_AK47 , 1Rnd_HE_GP25
+RH_ak105       30Rnd_545x39_AK
+RH_ak105gl     30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_ak105k      30Rnd_545x39_AK
+RH_ak105kgl    30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_ak105sp     30Rnd_545x39_AK
+RH_ak105glsp   30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_ak105_1p29  30Rnd_545x39_AK
+RH_ak105gl1p29 30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_ak107       30Rnd_545x39_AK
+RH_ak107gl     30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_ak107k      30Rnd_545x39_AK
+RH_ak107kgl    30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_ak107sp     30Rnd_545x39_AK
+RH_ak107glsp   30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_ak107_1p29  30Rnd_545x39_AK
+RH_ak107gl1p29 30Rnd_545x39_AK, 1Rnd_HE_GP25
+RH_asval       RH_20Rnd_9x39_val_mag
+RH_asvalk      RH_20Rnd_9x39_val_mag
+RH_asvalsp     RH_20Rnd_9x39_val_mag
+RH_pm          8Rnd_9x18_Makarov
+RH_pmsd        8Rnd_9x18_MakarovSD
+RH_aps         RH_20Rnd_9x18_aps
+RH_apssd       RH_20Rnd_9x18_apssd
+
+class names:
+"RH_hk416"
+"RH_hk416aim"
+"RH_hk416acog"
+"RH_hk416eotech"
+"RH_hk416sd"
+"RH_hk416sdaim"
+"RH_hk416sdeotech"
+"RH_hk416gl"
+"RH_hk416glaim"
+"RH_hk416glacog"
+"RH_hk416glaeotech"
+"RH_hk416sdgl"
+"RH_hk416sdglaim"
+"RH_hk416sdgleotech"
+"RH_hk416s"
+"RH_hk416saim"
+"RH_hk416seotech"
+"RH_hk416sacog"
+"RH_hk416sgl"
+"RH_hk416sglaim"
+"RH_hk416sgleotech"
+"RH_hk416sglacog"
+"RH_ctar21"
+"RH_ctar21m"
+"RH_ctar21glacog"
+"RH_ctar21mgl"
+"RH_star21"
+"RH_hk417"
+"RH_hk417aim"
+"RH_hk417acog"
+"RH_hk417eotech"
+"RH_hk417sp"
+"RH_hk417sd"
+"RH_hk417sdaim"
+"RH_hk417sdacog"
+"RH_hk417sdeotech"
+"RH_hk417sdsp"
+"RH_hk417s"
+"RH_hk417saim"
+"RH_hk417sacog"
+"RH_hk417seotech"
+"RH_hk417sgl"
+"RH_hk417sglaim"
+"RH_hk417sglacog"
+"RH_hk417sgleotech"
+"RH_acr"
+"RH_acracog"
+"RH_acraim"
+"RH_acreotech"
+"RH_acrgl"
+"RH_acrglacog"
+"RH_acrglaim"
+"RH_acrgleotech"
+"RH_acrb"
+"RH_acrbacog"
+"RH_acrbaim"
+"RH_acrbeotech"
+"RH_acrbgl"
+"RH_acrbglacog"
+"RH_acrbglaim"
+"RH_acrbgleotech"
+"RH_mas"
+"RH_masacog"
+"RH_masaim"
+"RH_maseotech"
+"RH_masb"
+"RH_masbacog"
+"RH_masbaim"
+"RH_masbeotech"
+"RH_massd"
+"RH_massdacog"
+"RH_massdaim"
+"RH_massdeotech"
+"RH_masbsd"
+"RH_masbsdacog"
+"RH_masbsdaim"
+"RH_masbsdeotech"
+"RH_m27"
+"RH_m27acog"
+"RH_m27aim"
+"RH_m27eotech"
+"RH_m27c"
+"RH_m27cacog"
+"RH_m27caim"
+"RH_m27ceotech"
+
+Ammo: 
+uses BIS 30Rnd_556x45_Stanag or for sd versions 30Rnd_556x45_StanagSD and for gl 1Rnd_HE_M203, 
+FlareWhite_M203 , FlareGreen_M203 , FlareRed_M203 ,FlareYellow_M203
+IAR's - can also use Cmag - 100Rnd_556x45_BetaCMag
+Hk417 uses - RH_20Rnd_762x51_hk417 or 20Rnd_762x51_DMR, for sd versions RH_20Rnd_762x51_SD_hk417 and for ELGM 1Rnd_HE_M203
+
+class names:
+"RH_ar10",
+"RH_ar10s",
+"RH_m4",
+"RH_m4a1", 
+"RH_m4r", 
+"RH_m4a1r", 
+"RH_m4aim", 
+"RH_m4a1aim", 
+"RH_m4eotech", 
+"RH_m4a1eotech", 
+"RH_m4acog", 
+"RH_m4a1acog", 
+"RH_m4sd", 
+"RH_m4sdaim", 
+"RH_m4sdacog", 
+"RH_m4sdeotech", 
+"RH_m4gl", 
+"RH_m4glaim", 
+"RH_m4glacog", 
+"RH_m4glaeotech", 
+"RH_m4sdgl", 
+"RH_m4sdglaim", 
+"RH_m4sdglacog", 
+"RH_m4sdgleotech", 
+"RH_m4m", 
+"RH_m4maim", 
+"RH_m4meotech", 
+"RH_m4macog",
+"RH_m4sbr",
+"RH_m4sbraim", 
+"RH_m4sbreotech", 
+"RH_m4sbracog", 
+"RH_m16a1", 
+"RH_m16a1gl", 
+"RH_m16a1s", 
+"RH_m16a1sgl", 
+"RH_m16a2", 
+"RH_m16a2gl", 
+"RH_m16a2aim", 
+"RH_m16a2glaim", 
+"RH_m16a2s", 
+"RH_m16a2sgl", 
+"RH_m16a3", 
+"RH_m16a3gl", 
+"RH_m16a3aim", 
+"RH_m16a3s", 
+"RH_m16a3sgl", 
+"RH_m16a3c", 
+"RH_m16a3cs", 
+"RH_m16a4", 
+"RH_m16a4gl", 
+"RH_m16a4acog", 
+"RH_m16a4glacog", 
+"RH_m16a4aim", 
+"RH_m16a4glaim", 
+"RH_m16a4eotech", 
+"RH_m16a4gleotech", 
+"RH_mk12", 
+"RH_mk12mod1", 
+"RH_mk12sd", 
+"RH_mk12mod1sd", 
+"RH_M249", 
+"RH_M249acog", 
+"RH_M249elcan", 
+"RH_M249p", 
+"RH_M249pacog", 
+"RH_M249pelcan", 
+"RH_Mk48mod1", 
+"RH_Mk48mod1acog", 
+"RH_Mk48mod1elcan",
+		
+Wdl versions:
+"RH_M4aim_wdl",
+"RH_M4gleotech_wdl",
+"RH_M4sdaim_wdl",
+"RH_M4sdgleotech_wdl"
+
+Ammo: 
+uses BIS 30Rnd_556x45_Stanag or for sd versions 30Rnd_556x45_StanagSD and for gl 1Rnd_HE_M203, 
+FlareWhite_M203 , FlareGreen_M203 , FlareRed_M203 ,FlareYellow_M203
+Special ammo for Mk12 SD's is 30Rnd_556x45_StanagSDSpr also can be used for SD Acog versions
+M16A3's - can also use Cmag - 100Rnd_556x45_BetaCMag
+M249's are using BIS too - 200Rnd_556x45_M249 , Mk48's uses - 100Rnd_762x51_M240
+AR10's are using - RH_20Rnd_762x51_AR10
+
+class names:
+"RH_m14"
+"RH_m14acog"
+"RH_m14aim"
+"RH_m14eot"
+"RH_m21"
+"RH_sc2"
+"RH_sc2acog"
+"RH_sc2aim"
+"RH_sc2eot"
+"RH_sc2shd"
+"RH_sc2sp"
+"RH_m1s"
+"RH_m1sacog"
+"RH_m1saim"
+"RH_m1seot"
+"RH_m1sshd"
+"RH_m1ssp"
+"RH_m1st"
+"RH_m1stacog"
+"RH_m1staim"
+"RH_m1steot"
+"RH_m1stshd"
+"RH_m1stsp"
+
+Ammo: 
+uses BIS 20Rnd_762x51_DMR
+
+
+======================
+CLASSNAMES :
+======================
+
+Weapons:              Mags:
+RH_deagle             RH_7Rnd_50_AE 
+RH_Deagleg            RH_7Rnd_50_AE 
+RH_Deagles            RH_7Rnd_50_AE 
+RH_deaglem            RH_7Rnd_50_AE 
+RH_Deaglemz           RH_7Rnd_50_AE 
+RH_Deaglemzb          RH_7Rnd_50_AE 
+RH_browninghp         RH_13Rnd_9x19_bhp
+RH_mk22               RH_8Rnd_9x19_Mk
+RH_mk22sd             RH_8Rnd_9x19_Mksd
+RH_mk22v              RH_8Rnd_9x19_Mk
+RH_mk22vsd            RH_8Rnd_9x19_Mksd
+RH_usp                RH_15Rnd_9x19_usp
+RH_uspsd              RH_15Rnd_9x19_uspsd
+RH_uspm               RH_12Rnd_45cal_usp
+RH_m1911              RH_8Rnd_45cal_m1911
+RH_m1911sd            RH_8Rnd_45cal_m1911
+RH_m1911old           RH_8Rnd_45cal_m1911
+RH_m93r               RH_20Rnd_9x19_M93
+RH_m9                 15Rnd_9x19_M9
+RH_m9sd               15Rnd_9x19_M9SD
+RH_m9c                15Rnd_9x19_M9
+RH_m9csd              15Rnd_9x19_M9SD
+RH_g17                RH_17Rnd_9x19_g17
+RH_g18                RH_19Rnd_9x19_g18 , RH_33Rnd_9x19_g18
+RH_g19                RH_17Rnd_9x19_g17
+RH_g19t               RH_17Rnd_9x19_g17
+RH_mk2                RH_10Rnd_22LR_mk2
+RH_tt33               RH_8Rnd_762_tt33
+RH_vz61               RH_20Rnd_32cal_vz61
+RH_tec9               RH_30Rnd_9x19_tec
+RH_muzi               RH_32Rnd_9x19_Muzi
+RH_ppk                RH_7Rnd_32cal_ppk 
+RH_p38                RH_8Rnd_9x19_p38
+RH_p226               RH_15Rnd_9x19_usp
+RH_p226s              RH_15Rnd_9x19_usp
+RH_anac               RH_6Rnd_44_Mag
+RH_anacg              RH_6Rnd_44_Mag
+RH_bull               RH_6Rnd_44_Mag
+RH_python             RH_6Rnd_357_Mag
+
+class names:
+"RH_HK53"
+"RH_HK53aim"
+"RH_HK53eot"
+"RH_HK53RFX"
+"RH_mp5a4"
+"RH_mp5a4aim"
+"RH_mp5a4eot"
+"RH_mp5a4rfx"
+"RH_mp5a5"
+"RH_mp5a5aim"
+"RH_mp5a5eot"
+"RH_mp5a5rfx"
+"RH_mp5a5ris"
+"RH_mp5a5risaim"
+"RH_mp5a5riseot"
+"RH_mp5a5risRFX"
+"RH_mp5a5eod"
+"RH_mp5a5eodaim"
+"RH_mp5a5eodeot"
+"RH_mp5a5eodRFX"
+"RH_mp5sd6"
+"RH_mp5sd6aim"
+"RH_mp5sd6eot"
+"RH_mp5sd6RFX"
+"RH_mp5sd6g"
+"RH_mp5k"
+"RH_mp5kpdw"
+"RH_mp5kpdwaim"
+"RH_mp5kpdweot"
+"RH_mp5kpdwRFX"
+"RH_p90"
+"RH_p90i"
+"RH_p90aim"
+"RH_P90eot"
+"RH_P90sd"
+"RH_P90isd"
+"RH_p90sdaim"
+"RH_p90sdeot"
+"RH_ump"
+"RH_umpaim"
+"RH_umpeot"
+"RH_umpRFX"
+"RH_umpsd"
+"RH_umpsdaim"
+"RH_umpsdeot"
+"RH_umpsdRFX"
+"RH_kriss"
+"RH_krissaim"
+"RH_krisseot"
+"RH_krissRFX"
+"RH_krisssd"
+"RH_krisssdaim"
+"RH_krisssdeot"
+"RH_krisssdRFX"
+"RH_uzi"
+"RH_uzim"
+"RH_uzig"
+"RH_uzisd"
+"RH_mac10"
+"RH_tmp"
+"RH_tmpaim"
+"RH_tmpeot"
+"RH_tmpsd"
+"RH_tmpsdaim"
+"RH_tmpsdeot"
+"RH_pp2000"
+"RH_pp2000aim"
+"RH_pp2000eot"
+"RH_mp7"
+"RH_mp7aim"
+"RH_mp7eot"
+"RH_mp7RFX"
+"RH_mp7sd"
+"RH_mp7sdaim"
+"RH_mp7sdeot"
+"RH_fmg9"
+"RH_pdr"
+"RH_pdraim"
+"RH_pdreot"
+
+Pistol versions
+
+"RH_mac10p"
+"RH_mp7p"
+"RH_pp2000p"
+"RH_mp5kp"
+
+Ammo: 
+HK53's uses BIS 30Rnd_556x45_Stanag,
+Mp5's uses BIS 30Rnd_9x19_MP5 or 30Rnd_9x19_MP5SD and for gl 1Rnd_HE_M203, 
+FlareWhite_M203 , FlareGreen_M203 , FlareRed_M203 ,FlareYellow_M203
+Kriss uses - RH_45ACP_30RND_Mag , RH_45ACP_13RND_Mag or RH_45ACP_30RND_SD_Mag
+Uzi's uses - RH_9mm_32RND_Mag or RH_9mm_32RND_SD_Mag
+Mac10 uses - RH_9mm_32RND_Mag
+Tmp's uses - 30Rnd_9x19_MP5 or 30Rnd_9x19_MP5SD
+Mp7's uses - RH_46x30mm_40RND_Mag or RH_46x30mm_40RND_SD_Mag
+PP2000's uses - 30Rnd_9x19_MP5
+UMP's uses - RH_45ACP_25RND_Mag or RH_45ACP_25RND_SD_Mag
+P90's uses - RH_57x28mm_50RND_Mag or RH_57x28mm_50RND_SD_Mag
+PDR's uses BIS 20Rnd_556x45_Stanag or 30Rnd_556x45_Stanag 
+FMG9 uses - RH_9mm_32RND_Mag
+
+Pistol versions
+
+RH_mac10p uses - RH_9mm_32RND_pMag
+RH_mp7p   uses - RH_46x30mm_40RND_pMag
+RH_pp2000p uses - 30Rnd_9x19_MP5p
+RH_mp5kp use   - 30Rnd_9x19_MP5p
+
+===========
+Classnames:
+===========
+
+Weapon				Classname				Magazine(s)
+------------------------------- ---------------------------             -----------------------------
+L85A2 w/ ironsights		ukf_L85A2				30Rnd_556x45_Stanag
+L85A2 w/ ironsights & BFA	ukf_L85A2_BFA				ukf_30rnd_556x45_blank_stanag
+L85A2 w/ SUSAT			ukf_L85A2_susat				30Rnd_556x45_Stanag
+L85A2 w/ SUSAT & BFA		ukf_L85A2_susat_BFA			ukf_30rnd_556x45_blank_stanag
+L85A2 w/ SUSAT & RIS		ukf_L85A2_RIS				30Rnd_556x45_Stanag
+L85A2 w/ CWS			ukf_L85A2_cws (*)			30Rnd_556x45_Stanag
+L85A2 w/ LWTI			ukf_L85A2_lwti				30Rnd_556x45_Stanag
+L85A2 w/ ACOG			ukf_L85A2_acog (*)			30Rnd_556x45_Stanag
+L85A2 w/ ACOG & Suppressor	ukf_L85A2_sd (*)			30Rnd_556x45_StanagSD, 30Rnd_556x45_Stanag
+L86A2 w/ ironsights (aka LSW)	ukf_L86A2LSW (#)			30Rnd_556x45_Stanag
+L86A2 w/ ironsights & BFA	ukf_L86A2LSW_BFA (#)			ukf_30rnd_556x45_blank_stanag
+L86A2 w/ SUSAT			ukf_L86A2LSW_susat (#)			30Rnd_556x45_Stanag
+L86A2 w/ SUSAT & BFA		ukf_L86A2LSW_susat_BFA (#)		ukf_30rnd_556x45_blank_stanag
+L86A2 w/ MaxiKite		ukf_L86A2LSW_MaxiKite (#)		30Rnd_556x45_Stanag
+L85A2 w/ ironsights & UGL 	ukf_L85A2AG36 (#)			30Rnd_556x45_Stanag, 1Rnd_HE_M203, FlareWhite_M203, FlareGreen_M203, FlareRed_M203, FlareYellow_M203
+L85A2 w/ ironsights, UGL & BFA	ukf_L85A2AG36_BFA (#)			ukf_30rnd_556x45_blank_stanag, 1Rnd_HE_M203, FlareWhite_M203, FlareGreen_M203, FlareRed_M203, FlareYellow_M203
+L85A2 w/ SUSAT & UGL	 	ukf_L85A2AG36_susat (#)			30Rnd_556x45_Stanag, 1Rnd_HE_M203, FlareWhite_M203, FlareGreen_M203, FlareRed_M203, FlareYellow_M203
+L85A2 w/ SUSAT, UGL & BFA 	ukf_L85A2AG36_susat_BFA (#)		ukf_30rnd_556x45_blank_stanag, FlareWhite_M203, FlareGreen_M203, FlareRed_M203, FlareYellow_M203
+L85A2 w/ CWS & UGL	 	ukf_L85A2AG36_cws (#*)			30Rnd_556x45_Stanag, 1Rnd_HE_M203, FlareWhite_M203, FlareGreen_M203, FlareRed_M203, FlareYellow_M203
+L85A2 w/ LWTI & UGL		ukf_L85A2AG36_lwti (#)			30Rnd_556x45_Stanag, 1Rnd_HE_M203, FlareWhite_M203, FlareGreen_M203, FlareRed_M203, FlareYellow_M203
+L85A2 w/ ACOG & UGL	 	ukf_L85A2AG36_acog (#*)			30Rnd_556x45_Stanag, 1Rnd_HE_M203, FlareWhite_M203, FlareGreen_M203, FlareRed_M203, FlareYellow_M203
+L85A2 w/ ACOG, UGL & suppressor	ukf_L85A2AG36_acog (#*)			30Rnd_556x45_StanagSD, 1Rnd_HE_M203, FlareWhite_M203, FlareGreen_M203, FlareRed_M203, FlareYellow_M203
+L22A2 w/ SUSAT (aka Carbine)	ukf_L85A2K_susat			30Rnd_556x45_Stanag, 20Rnd_556x45_stanag
+L22A2 w/ SUSAT & BFA		ukf_L85A2K_susat_BFA			ukf_30rnd_556x45_blank_stanag
+L7A2 GPMG			ukf_gpmg (#)				100Rnd_762x51_m240
+L7A2 GPMG w/ MaxiKite		ukf_gpmg_MaxiKite (#)			100Rnd_762x51_m240
+L7A2 GPMG w/ VIPIR-2+		ukf_gpmg_vipir2plus (#)			100Rnd_762x51_m240
+L7A2 GPMG w/ BFA		ukf_gpmg_bfa (#)			ukf_100rnd_762x51_blank
+L110A2 LMG			ukf_lmg (#)				200Rnd_556x45_M249, 30Rnd_556x45_Stanag,
+L110A2 LMG w/ SUSAT		ukf_lmg_SUSAT (#)			200Rnd_556x45_M249, 30Rnd_556x45_Stanag,
+L110A2 LMG w/ CWS		ukf_lmg_CWS (#)				200Rnd_556x45_M249, 30Rnd_556x45_Stanag,
+L110A2 LMG w/ VIPIR-2+		ukf_lmg_vipir2plus (#)			200Rnd_556x45_M249, 30Rnd_556x45_Stanag,
+L110A2 LMG w/ ACOG		ukf_lmg_ACOG (#)			200Rnd_556x45_M249, 30Rnd_556x45_Stanag,
+L110A2 LMG w/ BFA		ukf_lmg_BFA (#)				ukf_200rnd_556x45_blank
+L110A2 LMG w/ SUSAT & BFA	ukf_lmg_SUSAT_BFA (#)			ukf_200rnd_556x45_blank
+
+(#) denotes that the _fgrip suffix can be added to obtain the weapon with the bipod/handgrip
+in the 'down' position. e.g. ukf_L86A2LSW_susat_fgrip
+(*) denotes that the _CQB suffix can be added to the classname to obtain the weapon with the 
+LLM in torch mode. e.g. ukf_L85A2_acog_CQB
+(#*) denotes that the _fgrip and _CQB suffix can be added to obtain the weapon with the
+bipod/handgrip in the 'down' position and LLM in torch mode, or any combination thereoff.
+e.g. ukf_L85A2AG36_acog_fgrip, ukf_L85A2AG36_acog_CQB, ukf_L85A2AG36_acog_fgrip_CQB
+
+CLASS NAMES:
+============
+
+Unsuppressed rifles:
+
+"UKF_L115A3"
+"UKF_L115A3_wdl"
+"UKF_L115A3_des"
+
+Suppressed rifles:
+
+"UKF_L115A3_sd"
+"UKF_L115A3_sd_wdl"
+"UKF_L115A3_sd_des"
+
+Adding the sufix '_fgrip' to these classnames will spawn these rifles with the bipod in the
+deployed position.
+
+Magazines:
+
+"UKF_5Rnd_338_Mag"
+
+All rifles use this magazine. There is no sub-sonic ammunition for use with the suppressed
+rifles; the suppressor's purpose is to eliminate muzzle-flash.
